@@ -1,0 +1,985 @@
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+/*================================== nav bar part start==================================== */
+.menu-nav{
+    background-color: #1C1E53;
+    padding: 20px 0;
+}
+.nav-item a{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #BBBBCB;
+}
+.nav-item a:hover{
+    color: #FFFFFF;
+}
+.navbar-nav li{
+    padding: 0px 16px;
+}
+.nav-btn a{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    text-align: left;
+    color: #FFFFFF;
+    padding: 16px 25px;
+    border:  2px solid #F4F6FC33;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+}
+.nav-btn a:hover {
+     background-color: #FCD980;
+     border: 2px solid transparent;
+     color: #1C1E53;
+     transition: 0.5s;
+     -webkit-transition: 0.5s;
+     -moz-transition: 0.5s;
+     -ms-transition: 0.5s;
+     -o-transition: 0.5s;
+}
+/*================================== nav bar part end==================================== */
+
+
+/*================================== banner part start==================================== */
+#banner{
+    background-color: #1C1E53;
+}
+.banner-btn{
+    padding-bottom: 146px;
+}
+.banner-left h2{
+   font-family: Poppins;
+   font-size: 54px;
+   font-weight: 600;
+   line-height: 74px;
+   text-align: left;
+   color: #ffff;
+   padding-top: 126px;
+}
+.banner-left p{
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px;
+  text-align: left;
+  color: #ffff;
+  padding-top: 24px;
+  padding-bottom: 48px;
+}
+.banner-btn-one{
+    padding: 15px 30px;
+    border: 2px solid #FCD980;
+    border-radius: 100px;
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 32px;
+    text-align: left;
+    color: #ffff;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+}
+.banner-btn-one:hover{
+    background-color: #FCD980;
+    border: 2px solid transparent;
+    color: #1B1C2B;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.banner-btn-two{
+    padding: 15px 30px;
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 32px;
+    text-align: left;
+    color: #ffff;
+}
+.banner-btn-two:hover{
+    background-color: #FCD980;
+    border-radius: 100px;
+    color: #1B1C2B;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+}
+.banner-btn i{
+    color: #ffff;
+    top: -23px;
+    left: 335px;
+}
+.banner-right img{
+    padding-top: 149px;
+}
+
+/*================================== banner part end==================================== */
+
+
+
+/*================================== How we work part start==================================== */
+#work{
+    background-color: #F4F6FC;
+    padding: 128px 0;
+}
+.work-left h2{
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 64px;
+    text-align: left;
+    color: #282938;
+    padding-bottom: 16px;
+}
+.work-left p{
+  font-family: Poppins;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+   color: #282938;
+   padding-bottom: 16px;
+}
+.work-left a{
+    color: #2405F2;
+}
+.work-left{
+    position: relative;
+}
+.work-left i{
+    position: absolute;
+    color: #2405F2;
+    top: 182px;
+  left: 150px;
+}
+.work-mid h2{
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 48px;
+    text-align: left;
+    color: #282938;
+    padding-top: 16px;
+    padding-bottom: 8px;
+}
+.work-mid p{
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  color: #282938;
+}
+.work-botm{
+    padding-top: 48px;
+}
+.work-botm h2{
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 48px;
+    text-align: left;
+    color: #282938;
+    padding-top: 16px;
+    padding-bottom: 8px;
+}
+.work-botm p{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    color: #282938;
+}
+
+/*================================== How we work part end==================================== */
+
+
+
+/*================================== View our projects part start==================================== */
+#projects{
+    background-color: #ffff;
+    padding: 128px 0;
+}
+.projects-top-left h2{
+  font-family: Poppins;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 64px;
+  text-align: left;
+  color: #282938;
+  padding-bottom: 64px;
+}
+.projects-top-right{
+    position: relative;
+}
+.projects-top-right h6{
+    position: absolute;
+ font-family: Poppins;
+ font-size: 16px;
+ font-weight: 500;
+ line-height: 28px;
+ text-align: left;
+ color: #282938;
+ top: 21px;
+}
+.projects-top-right i{
+    position: absolute;
+    color: #282938;
+    top: 28px;
+    right: 85px;
+}
+
+.value-left img{
+   width: 100%;
+   
+}
+.value-left{ 
+    position: relative;
+}
+.bac{
+   position: absolute;
+   top: 0;
+   left: 0%;
+   height: 100%;
+   width: 0%;
+   background: linear-gradient(to right ,rgba(28, 30, 83, 0.42) , rgb(28, 30, 83) );
+   transition: 0.6s;
+   -webkit-transition: 0.6s;
+   -moz-transition: 0.6s;
+   -ms-transition: 0.6s;
+   -o-transition: 0.6s;
+   opacity: 0;
+}
+.value-left:hover .bac{
+    width: 47%;
+    opacity: 1;
+}
+.bac-text{
+    position: relative;
+}
+.bac-text h2{
+    position: absolute;
+   top: 312px;
+   left: 35px;
+    font-family: Poppins;
+ font-size: 20px;
+ font-weight: 600;
+ line-height: 36px;
+ text-align: left;
+ color: #ffff;
+ width: 313px;
+}
+.bac p{
+    position: absolute;
+   top: 400px;
+   left: 35px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px;
+  text-align: left;
+  color: #ffff;
+  width: 293px;
+}
+.bac a{
+    position: absolute;
+   top: 500px;
+   left: 35px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px;
+  text-align: left;
+  color: #FCD980;
+  width: 100px;
+}
+.bac i{
+    position: absolute;
+    color: #FCD980;
+    top: 507px;
+    left:155px;
+}
+.value-right-one{
+    position: relative;
+}
+.back-one{
+    position: absolute;
+    background: linear-gradient(to right ,rgba(28, 30, 83, 0.42) , rgb(28, 30, 83) );
+    width: 0%;
+    height: 100%;
+    top: 0px;
+    left: 8px;
+    opacity: 0;
+    transition: 0.6s;
+    -webkit-transition: 0.6s;
+    -moz-transition: 0.6s;
+    -ms-transition: 0.6s;
+    -o-transition: 0.6s;
+}
+.value-right-one:hover .back-one{
+    width: 98%;
+    opacity: 1;
+}
+
+
+
+
+.back-one-text{
+    position: relative;
+}
+.back-one-text h2{
+    position: absolute;
+    font-family: Poppins;
+ font-size: 24px;
+ font-weight: 600;
+ line-height: 36px;
+ text-align: left;
+ color: #fff;
+ top: 129px;
+ left: 42px;
+ width: 292px;
+}
+.back-one-text a{
+    position: absolute;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px;
+  text-align: left;
+  color: #FCD980;
+  top: 213px;
+  left: 42px;
+  width: 110px;
+}
+.back-one-text i{
+    position: absolute;
+    color: #FCD980;
+    left: 160px;
+    top: 220px;
+}
+.value-right-two img{
+    padding-top: 32px;
+    padding-left: 8px;
+}
+
+
+/*================================== View our projects part end==================================== */
+
+
+
+
+/*================================== solves-problem part start==================================== */
+#solvesproblem{
+    padding-top: 12px ;
+    background-color: #F4F6FC;
+}
+.Features h5{
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+text-align: center;
+color: #282938;
+padding-bottom: 12px;
+padding-top: 128px;
+}
+.problem-top h2{
+font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 64px;
+letter-spacing: 0em;
+text-align: center;
+color: #282938;
+padding-bottom: 47px;
+}
+.problem-inner{
+    background-color: #F4F6FC;
+    box-shadow:0.5px 0px 1px 0.5px rgba(0,0,0,0.2), 0 0px 1px 0px rgba(0,0,0,0.19);
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.problem-inner:hover{
+    background-color: #ffff;
+    box-shadow: 1px 2px 3px 0px rgba(0,0,0,0.24), 1px 6px 15px 1px rgba(0,0,0,0.19);
+    transition: 0.6s;
+    -webkit-transition: 0.6s;
+    -moz-transition: 0.6s;
+    -ms-transition: 0.6s;
+    -o-transition: 0.6s;
+}
+.problem-inner img{
+    padding-top: 58px;
+    padding-left: 48px;
+}
+.problem-inner h3{
+font-family: Poppins;
+font-size: 24px;
+font-weight: 500;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+color: #282938;
+padding-left: 48px;
+padding-top: 22px;
+}
+.problem-inner p{
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+color: #282938;
+padding-left: 48px;
+padding-top: 12px;
+padding-bottom: 48px;
+}
+/*================================== solves-problem  part end==================================== */
+
+
+/*================================== about  part start==================================== */
+#about{
+    background-color: #F4F6FC;
+    padding: 128px 0;
+}
+.about-left h2{
+color: #282938;
+font-family: Poppins;
+font-size: 38px;
+font-weight: 600;
+line-height: 56px;
+letter-spacing: 0em;
+text-align: left;
+width: 327px;
+}
+.about-right h2{
+   color: #282938;
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.about-pera p{
+  color: #282938;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+width: 327px;
+}
+.women img{
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+}
+.women{
+    position: relative;
+}
+.women h5{
+    position: absolute;
+   color: #282938;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 500;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+top: 0px;
+left: 62px;
+}
+.women h6{
+    position: absolute;
+    color: #282938;
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    top: 30px;
+    left: 62px;    
+}
+.about-icon i{
+    padding: 10px 12px;
+    border-radius:50% ;
+    -webkit-border-radius:50% ;
+    -moz-border-radius:50% ;
+    -ms-border-radius:50% ;
+    -o-border-radius:50% ;
+}
+.about-icon i:hover{
+    background-color: #5239FA;
+    color: #ffff;
+}
+
+/*================================== about  part end==================================== */
+
+
+
+/*================================== Frequently  part start==================================== */
+#Frequently{
+  padding-top: 128px;
+}
+
+.Frequently-left h2 {
+font-family: Poppins;
+font-size: 38px;
+font-weight: 600;
+line-height: 56px;
+letter-spacing: 0em;
+text-align: left;
+color: #282938;
+width: 328px;
+padding-bottom: 16px;
+}
+.Frequently-left a{
+font-family: Poppins;
+font-size: 18px;
+font-weight: 500;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: center;
+color: #2405F2;
+}
+.accordion-item{
+    position: relative;
+}
+.accordion-item h4{
+    position: absolute;
+    left: 5px;
+  color: #2405F2;
+font-family: Poppins;
+font-size: 24px;
+font-weight: 500;
+line-height: 36px;
+text-align: center;
+top: 5px;
+}
+.accordion-item h3{
+    position: absolute;
+    left: 60px;
+  color: #282938;
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: left;
+  top: 5px;
+}
+strong{
+    left: 60px;
+ color: #282938;
+font-weight: 500;
+line-height: 32px;
+text-align: left;
+width: 624px;
+}
+
+/*================================== Frequently  part end==================================== */
+
+
+/*================================== Building stellar  part start==================================== */
+#stellar{
+    padding-top: 128px;
+}
+.womenimg img{
+    width: 104%;
+}
+.womenimg{
+    position: relative;
+}
+.overflow{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 0%;
+    background-color: rgba(28, 30, 83, 0.673);
+    opacity: 0;
+    transition: 0.7s;
+    -webkit-transition: 0.7s;
+    -moz-transition: 0.7s;
+    -ms-transition: 0.7s;
+    -o-transition: 0.7s;
+}
+.womenimg:hover .overflow{
+    width: 104%;
+    opacity: 1;
+}
+.overflow-text{
+    position: relative;
+}
+.overflow h2{
+    position: absolute;
+font-family: Poppins;
+font-size: 54px;
+font-weight: 600;
+line-height: 74px;
+color: #fff;
+text-align: left;
+width: 464px;
+top: 96px;
+left: 96px;
+}
+.overflow p{
+    position: absolute;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+color: #fff;
+text-align: left;
+width: 464px;
+top: 345px;
+left: 96px;
+}
+.stellarbot{
+    background-color: #1C1E53;
+}
+.formtop h2{
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 48px;
+    color: #FFFFFF;
+    text-align: left;
+    padding-top: 96px;
+    padding-left: 96px;
+    }
+.formtop p{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    color: #fff;
+    text-align: left;
+    padding-left: 96px;
+    padding-top: 16px;
+    width: 541px;
+}
+.formname{
+    padding-left: 96px;
+    padding-top: 40px;
+}
+.formname input{
+    background-color: #1C1E53;
+  color: #F4F6FC;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+width: 432px;
+padding: 10px 0;
+padding-left: 15px;
+}
+.formEmail{
+    padding-left: 96px;
+    padding-top: 16px;
+}
+.formEmail input{
+    background-color: #1C1E53;
+  color: #F4F6FC;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+width: 432px;
+padding: 10px 0;
+padding-left: 15px;
+}
+.formURL{
+    padding-left: 96px;
+    padding-top: 16px;
+}
+.formURL input{
+    background-color: #1C1E53;
+  color: #F4F6FC;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+width: 432px;
+padding: 10px 0 ;
+padding-left: 15px;
+}
+.stellarbtn{
+    padding: 60px 0 20px 96px;
+}
+.stellarbtn a{
+ padding-left: 96px;
+ padding: 10px 150px;
+ font-family: Manrope;
+ font-size: 18px;
+ font-weight: 600;
+ line-height: 32px;
+ color: #fff;
+ text-align: left;
+ border: 2px solid #FCD980;
+ border-radius: 100px;
+ -webkit-border-radius: 100px;
+ -moz-border-radius: 100px;
+ -ms-border-radius: 100px;
+ -o-border-radius: 100px;
+}
+.stellarbtn a:hover{
+    background-color: #FCD980;
+    border: 2px solid transparent;
+    color: #1B1C2B;
+    transition: 0.6s;
+    -webkit-transition: 0.6s;
+    -moz-transition: 0.6s;
+    -ms-transition: 0.6s;
+    -o-transition: 0.6s;
+}
+.stellarbtm h5{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    color: #fff;
+    text-align: left;
+    padding-left: 230px;
+    padding-top: 28px;
+    padding-bottom: 48px;
+}
+.stellarbtm{
+        position: relative;
+        padding-bottom: 3px;
+}
+.stellarbtm i{
+        position: absolute;
+        bottom: 65px;
+        right: 200px;
+        color: #fff;
+}
+
+/*================================== Building stellar  part end==================================== */
+
+
+/*==================================  Our blog  part start==================================== */
+#blog{
+    padding: 128px 0;
+}
+.Our-blog h2{
+font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 64px;
+color: #282938;
+text-align: left;
+padding-bottom: 64px;
+}
+.blog-inner h6{
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+color: #282938;
+text-align: left;
+padding-top: 40px;
+}
+.blog-inner h2{
+font-family: Poppins;
+font-size: 24px;
+font-weight: 500;
+line-height: 36px;
+color: #282938;
+text-align: left;
+padding-top: 16px;
+}
+.blog-inner p{
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+color: #282938;
+text-align: left;
+padding-top: 16px;
+}
+.blog-inner a{
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+color: #282938;
+text-align: left;
+padding-top: 32px;
+}
+.blog-inner i{
+    padding-left: 5px;
+    color: #282938;
+}
+.blog-inner{
+    background-color: #fff;
+}
+.blog-inner:hover{
+    background-color: #F4F6FC; 
+}
+
+/*==================================  Our blog  part end==================================== */
+
+
+/*==================================  footer  part start==================================== */
+#foter{
+     background-color: #1C1E53;
+}
+.foter-img img{
+    padding-top: 100px;
+}
+.foter-top-right h2{
+  color: #ffff;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 64px;
+letter-spacing: 0em;
+text-align: left;
+padding-top: 100px;
+}
+.foter-pera p{
+ color: #ffff;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+padding-top: 22px;
+}
+.foter-icon i{
+    color: #fff;
+    padding: 0 10px 0 0;
+}
+.email-call{
+    background-color: #FCD980;
+    position: relative;
+    padding: 5px;
+}
+.email-call h2{
+    color: #282938;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.email-call p{
+    color: #282938;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.email-call h3{
+    position: absolute;
+    top: 9px;
+    left: 345px;
+    color: #282938;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 500;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.email-call h4{
+    position: absolute;
+    top: 47px;
+    left: 345px;
+    color: #282938;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.bottom{
+    display: flex;
+}
+#last{
+    background-color: #ffff;
+  
+}
+.last-left P{
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+color: #282938;
+padding-top: 32px;
+}
+.last-right ul{
+    display: flex;
+}
+.last-right ul li{
+    padding: 0 25px 0 0;
+    padding-top: 32px;
+   
+}
+.last-right ul li a{
+  color: #282938;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+
+
+/*================================== footer part end==================================== */

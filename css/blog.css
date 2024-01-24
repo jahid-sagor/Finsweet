@@ -1,0 +1,281 @@
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+/*================================== nav bar part start==================================== */
+.menu-nav{
+    background-color: #1C1E53;
+    padding: 20px;
+}
+.nav-item a{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #BBBBCB;
+}
+.nav-item a:hover{
+    color: #FFFFFF;
+}
+.navbar-nav li{
+    padding: 0 16px;
+}
+.nav-btn a{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    text-align: left;
+    color: #FFFFFF;
+    padding: 16px 25px;
+    border:  2px solid #F4F6FC33;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+}
+.nav-btn a:hover {
+     background-color: #FCD980;
+     border: 2px solid transparent;
+     color: #1C1E53;
+     transition: 0.5s;
+     -webkit-transition: 0.5s;
+     -moz-transition: 0.5s;
+     -ms-transition: 0.5s;
+     -o-transition: 0.5s;
+}
+/*================================== nav bar part end==================================== */
+
+/*================================== Environment part start==================================== */
+#Environment{
+    padding: 128px 0;
+}
+.Environment-top h2{
+ color: #282938;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 64px;
+text-align: center;
+padding-bottom: 16px;
+}
+.Environment-one h5{
+  color: #282938;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+text-align: center;
+padding-bottom: 32px;
+}
+.Environment-para p{
+   color: #282938;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+text-align: center;
+padding-top: 48px;
+padding-bottom: 16px;
+width: 831px;
+}
+.Environment-btn{
+    position: relative;
+}
+.Environment-btn a{
+    position: absolute;
+  color: #2405F2;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+text-align: center;
+left: 40px;
+}
+
+/*================================== Environment part end==================================== */
+
+
+/*================================== Environment part start==================================== */
+#Our-Blog{
+    padding:0  064px  0;
+}
+.Our-Blog-top h2{
+  color: #282938;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 64px;
+text-align: left;
+padding-bottom: 48px;
+}
+.OurBlog-inner{
+    padding-bottom: 64px;
+}
+.OurBlog-inner h4 {
+  color: #282938;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    text-align: left;
+    padding-top: 32px;
+}
+.OurBlog-inner h2{
+  color: #282938;
+font-family: Poppins;
+font-size: 24px;
+font-weight: 500;
+line-height: 36px;
+text-align: left;
+padding-top: 16px;
+padding-bottom: 16px;
+}
+.OurBlog-inner p{
+ color: #282938;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+text-align: left;
+padding-bottom: 24px;
+}
+.OurBlog-inner a{
+   color: #282938;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+text-align: left;
+}
+/*================================== Environment part end==================================== */
+
+
+/*==================================  footer  part start==================================== */
+#foter{
+    background-color: #1C1E53;
+}
+.foter-img img{
+   padding-top: 100px;
+}
+.foter-top-right h2{
+ color: #ffff;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 64px;
+letter-spacing: 0em;
+text-align: left;
+padding-top: 100px;
+}
+.foter-pera p{
+color: #ffff;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+padding-top: 22px;
+}
+.foter-icon i{
+   color: #fff;
+   padding: 0 10px 0 0;
+}
+.email-call{
+   background-color: #FCD980;
+   position: relative;
+   padding: 5px;
+}
+.email-call h2{
+   color: #282938;
+   font-family: Poppins;
+   font-size: 18px;
+   font-weight: 500;
+   line-height: 32px;
+   letter-spacing: 0em;
+   text-align: left;
+   
+}
+.email-call p{
+   color: #282938;
+   font-family: Poppins;
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 28px;
+   letter-spacing: 0em;
+   text-align: left;
+   
+}
+.email-call h3{
+   position: absolute;
+   top: 9px;
+   left: 345px;
+   color: #282938;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 500;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.email-call h4{
+   position: absolute;
+   top: 47px;
+   left: 345px;
+   color: #282938;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.bottom{
+    display: flex;
+}
+#last{
+    background-color: #ffff;
+  
+}
+.last-left P{
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+color: #282938;
+padding-top: 32px;
+}
+.last-right ul{
+    display: flex;
+    content: '';
+}
+.last-right ul li{
+    padding: 0 25px 0 0;
+    padding-top: 32px;
+   
+}
+.last-right ul li a{
+  color: #282938;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+
+
+
+
+/*================================== footer part end==================================== */

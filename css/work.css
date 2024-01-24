@@ -1,0 +1,334 @@
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+/*================================== nav bar part start==================================== */
+.menu-nav{
+    background-color: #1C1E53;
+    padding: 20px;
+}
+.nav-item a{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #BBBBCB;
+}
+.nav-item a:hover{
+    color: #FFFFFF;
+}
+.navbar-nav li{
+    padding: 0 16px;
+}
+.nav-btn a{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    text-align: left;
+    color: #FFFFFF;
+    padding: 16px 25px;
+    border:  2px solid #F4F6FC33;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+}
+.nav-btn a:hover {
+     background-color: #FCD980;
+     border: 2px solid transparent;
+     color: #1C1E53;
+     transition: 0.5s;
+     -webkit-transition: 0.5s;
+     -moz-transition: 0.5s;
+     -ms-transition: 0.5s;
+     -o-transition: 0.5s;
+}
+/*================================== nav bar part end==================================== */
+
+
+/*================================== Our Work Portfolio part start==================================== */
+#Portfolio{
+    background-color: #F4F6FC;
+}
+.protfolio-inner h3{
+    color: #282938;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    padding-top: 96px;
+    text-align: center;
+    
+}
+.protfolio-inner h2{
+ color: #282938;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 64px;
+padding-top: 4px;
+text-align: center;
+
+}
+.protfolio-inner p{
+  color: #282938;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+padding-top: 24px;
+text-align: center;
+
+}
+
+.icon i{
+   padding: 0 10px;
+   padding-bottom: 96px;
+}
+
+/*================================== Our Work Portfolio part end==================================== */
+
+
+/*================================== Template  part start==================================== */
+#Template{
+  padding: 96px 0;
+}
+.Template-top a{
+    color: #282938;
+}
+.Template-top ul{
+    display: flex;
+    padding-bottom: 48px;
+}
+.Template-top ul li{
+    padding: 0 32px;
+}
+.Template-top ul li :hover{
+    color: #2405F2;
+}
+.Template-inner h2{
+   color: #282938;
+font-family: Poppins;
+font-size: 38px;
+font-weight: 600;
+line-height: 56px;
+padding-top: 24px;
+text-align: left;
+}
+.Template-inner p{
+   color: #282938;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+padding-top: 12px;
+text-align: justified;
+}
+.Template-inner a{
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: #282938;
+padding-top: 24px;
+}
+.Template-inner i{
+    color: #282938;
+}
+.Template-inner {
+    padding-bottom: 64px;
+}
+
+/*================================== Template part end==================================== */
+
+
+/*================================== Let's build something great together part start==================================== */
+#great-together{
+    background-color: #ffff;
+    padding-bottom: 128px;
+}
+.great-together-inner-one h2{
+   color: #282938;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 64px;
+text-align: center;
+padding-bottom: 20px;
+}
+.great-together-inner-two p{
+  color: #282938;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+text-align: center;
+padding-bottom: 40px;
+}
+.great-together-btn{
+    position: relative;
+}
+.great-together-btn a{
+    position: absolute;
+    font-family: Manrope;
+font-size: 18px;
+font-weight: 600;
+line-height: 32px;
+color: #282938;
+text-align: center;
+left: 218px;
+    padding: 15px 40px;
+    border: 2px solid #FCD980;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+}
+.great-together-btn a:hover{
+    background-color: #FCD980;
+    border: 2px solid transparent;
+    transition: 0.6s;
+    -webkit-transition: 0.6s;
+    -moz-transition: 0.6s;
+    -ms-transition: 0.6s;
+    -o-transition: 0.6s;
+   
+}
+
+/*================================== Let's build something great together part end==================================== */
+
+
+
+
+/*==================================  footer  part start==================================== */
+#foter{
+    background-color: #1C1E53;
+}
+.foter-img img{
+   padding-top: 100px;
+}
+.foter-top-right h2{
+ color: #ffff;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 64px;
+letter-spacing: 0em;
+text-align: left;
+padding-top: 100px;
+}
+.foter-pera p{
+color: #ffff;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+padding-top: 22px;
+}
+.foter-icon i{
+   color: #fff;
+   padding: 0 10px 0 0;
+}
+.email-call{
+   background-color: #FCD980;
+   position: relative;
+   padding: 5px;
+}
+.email-call h2{
+   color: #282938;
+   font-family: Poppins;
+   font-size: 18px;
+   font-weight: 500;
+   line-height: 32px;
+   letter-spacing: 0em;
+   text-align: left;
+   
+}
+.email-call p{
+   color: #282938;
+   font-family: Poppins;
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 28px;
+   letter-spacing: 0em;
+   text-align: left;
+   
+}
+.email-call h3{
+   position: absolute;
+   top: 9px;
+   left: 345px;
+   color: #282938;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 500;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.email-call h4{
+   position: absolute;
+   top: 47px;
+   left: 345px;
+   color: #282938;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.bottom{
+    display: flex;
+}
+#last{
+    background-color: #ffff;
+  
+}
+.last-left P{
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+color: #282938;
+padding-top: 32px;
+}
+.last-right ul{
+    display: flex;
+    content: '';
+}
+.last-right ul li{
+    padding: 0 25px 0 0;
+    padding-top: 32px;
+   
+}
+.last-right ul li a{
+  color: #282938;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+
+
+
+
+/*================================== footer part end==================================== */

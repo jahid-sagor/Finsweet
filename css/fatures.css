@@ -1,0 +1,568 @@
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+/*================================== nav bar part start==================================== */
+.menu-nav{
+    background-color: #1C1E53;
+    padding: 20px;
+}
+.nav-item a{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #BBBBCB;
+}
+.nav-item a:hover{
+    color: #FFFFFF;
+}
+.navbar-nav li{
+    padding: 0 16px;
+}
+.nav-btn a{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    text-align: left;
+    color: #FFFFFF;
+    padding: 16px 25px;
+    border:  2px solid #F4F6FC33;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+}
+.nav-btn a:hover {
+     background-color: #FCD980;
+     border: 2px solid transparent;
+     color: #1C1E53;
+     transition: 0.5s;
+     -webkit-transition: 0.5s;
+     -moz-transition: 0.5s;
+     -ms-transition: 0.5s;
+     -o-transition: 0.5s;
+}
+/*================================== nav bar part end==================================== */
+
+
+/*================================== banner part start==================================== */
+#banner1{
+    background-color: #1C1E53;
+}
+.banner-btn1{
+    padding-bottom: 146px;
+}
+.banner-left1 h2{
+   font-family: Poppins;
+   font-size: 54px;
+   font-weight: 600;
+   line-height: 74px;
+   text-align: left;
+   color: #ffff;
+   padding-top: 126px;
+}
+.banner-left1 p{
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px;
+  text-align: left;
+  color: #ffff;
+  padding-top: 24px;
+  padding-bottom: 48px;
+}
+.banner-btn1 a{   
+    padding: 20px 30px;
+    border: 2px solid #FCD980;
+    border-radius: 100px;
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 32px;
+    text-align: left;
+    color: #ffff;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+}
+.banner-btn1 a:hover{
+    background-color: #FCD980;
+    border: 2px solid transparent;
+    color: #1B1C2B;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+
+.banner-right1 img{
+    padding-top: 149px;
+    padding-bottom: 120px;
+}
+
+/*================================== banner part end==================================== */
+
+
+/*================================== banner-bottom part start==================================== */
+#banner-bottom{
+   overflow: hidden;
+}
+.working-bottom h2{
+    color: #282938;
+      font-family: Poppins;
+      font-size: 38px;
+      font-weight: 600;
+      line-height: 56px;
+     padding-top: 48px;
+      text-align: left; 
+  }
+  .working-bottom p{
+     color: #282938;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  }
+.working-bottom-img{
+    position: relative;
+}
+.working-bottom-img img{
+    position: absolute;
+    top: 76px;
+    left: 50px;
+}
+
+/*================================== banner-bottom part end==================================== */
+
+
+
+
+/*================================== The benefits of working with our team start==================================== */
+#benefits-working{
+    padding-top: 128px;
+ }
+ .working1 h2{
+     color: #282938;
+ font-family: Poppins;
+ font-size: 48px;
+ font-weight: 600;
+ line-height: 64px;
+ text-align: center;
+ padding-bottom: 48px;
+ }
+ .working-inner1{
+    box-shadow: 0 1px 2px 0 , 0 1px 3px 0 ;
+    padding-bottom: 300px;
+     position: relative;
+ }
+ .working-inner1:hover{
+    background-color: #F4F6FC;
+    box-shadow: 0 4px 8px 0 , 0 7px 20px 0 ;
+    transition: 0.6s;
+    -webkit-transition: 0.6s;
+    -moz-transition: 0.6s;
+    -ms-transition: 0.6s;
+    -o-transition: 0.6s;
+}
+
+ .working-inner-img1{
+     position: absolute;
+     top: 50px;
+     left: 48px;
+ }
+ .working-inner1 h2{
+     position: absolute;
+ color: #282938;
+ font-family: Poppins;
+ font-size: 24px;
+ font-weight: 500;
+ line-height: 36px;
+ text-align: left;
+ top: 108px;
+ left: 47.97px;
+ }
+ .working-inner1 p{
+     position: absolute;
+     top: 156px;
+     left: 47.97px;
+    color: #282938;
+ font-family: Poppins;
+ font-size: 16px;
+ font-weight: 400;
+ line-height: 28px;
+ text-align: left;
+ }
+/*================================== The benefits of working with our team  part end==================================== */
+
+
+/*================================== Use Client-first  part start==================================== */
+#Client-first{
+    padding: 128px 0;
+}
+.Client-left h3{
+   color: #000;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 500;
+line-height: 32px;
+text-align: left;
+padding-top: 41px;
+}
+.Client-left h2{
+   color: #232536;
+font-family: Poppins;
+font-size: 38px;
+font-weight: 600;
+line-height: 56px;
+text-align: left;
+padding-top: 16px;
+width: 573px;
+}
+.Client-left p{
+   color: #282938;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+text-align: left;
+padding-top: 16px;
+}
+.Client-right{
+    position: relative;
+}
+.Client-right img{
+    position: absolute;
+    right: 0px;
+}
+
+/*================================== Use Client-first  part end==================================== */
+
+
+/*================================== Revision  part start==================================== */
+#Revision{
+    background-color: #F4F6FC;
+    padding: 128px 0;
+}
+.Revision-right h3{
+    color: #000;
+ font-family: Poppins;
+ font-size: 18px;
+ font-weight: 500;
+ line-height: 32px;
+ text-align: left;
+ padding-top: 41px;
+ }
+ .Revision-right h2{
+    color: #232536;
+ font-family: Poppins;
+ font-size: 38px;
+ font-weight: 600;
+ line-height: 56px;
+ text-align: left;
+ padding-top: 16px;
+
+ }
+ .Revision-right p{
+    color: #282938;
+ font-family: Poppins;
+ font-size: 16px;
+ font-weight: 400;
+ line-height: 28px;
+ text-align: left;
+ padding-top: 16px;
+ width: 600px;
+ }
+ .Client-left{
+     position: relative;
+ }
+ .Client-left img{
+     position: absolute;
+     right: 0px;
+ }
+
+/*================================== Revision  part end==================================== */
+
+/*================================== Support  part start==================================== */
+#Support{
+   padding: 128px 0;
+}
+.Support-left h3{
+    color: #000;
+ font-family: Poppins;
+ font-size: 18px;
+ font-weight: 500;
+ line-height: 32px;
+ text-align: left;
+ padding-top: 41px;
+ }
+ .Support-left h2{
+    color: #232536;
+ font-family: Poppins;
+ font-size: 38px;
+ font-weight: 600;
+ line-height: 56px;
+ text-align: left;
+ padding-top: 16px;
+
+ }
+ .Support-left p{
+    color: #282938;
+ font-family: Poppins;
+ font-size: 16px;
+ font-weight: 400;
+ line-height: 28px;
+ text-align: left;
+ padding-top: 16px;
+ width: 600px;
+ }
+ .Support-right{
+     position: relative;
+ }
+ .Support-right img{
+     position: absolute;
+     right: 0px;
+ }
+
+/*================================== Support  part end==================================== */
+
+
+/*================================== Quick Delivery  part end==================================== */
+#Delivery{
+    background-color: #FCD9801A;
+    padding: 128px 0;
+}
+.Delivery-right h3{
+    color: #000;
+ font-family: Poppins;
+ font-size: 18px;
+ font-weight: 500;
+ line-height: 32px;
+ text-align: left;
+ padding-top: 41px;
+ }
+ .Delivery-right h2{
+    color: #232536;
+ font-family: Poppins;
+ font-size: 38px;
+ font-weight: 600;
+ line-height: 56px;
+ text-align: left;
+ padding-top: 16px;
+
+ }
+ .Delivery-right p{
+    color: #282938;
+ font-family: Poppins;
+ font-size: 16px;
+ font-weight: 400;
+ line-height: 28px;
+ text-align: left;
+ padding-top: 16px;
+ width: 600px;
+ padding-bottom: 50px;
+ }
+ .Delivery-left{
+     position: relative;
+ }
+ .Delivery-left img{
+     position: absolute;
+ }
+
+/*================================== Quick Delivery  part end==================================== */
+
+/*================================== Frequently  part start==================================== */
+#Frequently{
+  padding: 128px 0;
+
+}
+
+.Frequently-left h2 {
+font-family: Poppins;
+font-size: 38px;
+font-weight: 600;
+line-height: 56px;
+letter-spacing: 0em;
+text-align: left;
+color: #282938;
+width: 328px;
+padding-bottom: 16px;
+}
+.Frequently-left a{
+font-family: Poppins;
+font-size: 18px;
+font-weight: 500;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: center;
+color: #2405F2;
+}
+.accordion-item{
+    position: relative;
+}
+.accordion-item h4{
+    position: absolute;
+    left: 5px;
+  color: #2405F2;
+font-family: Poppins;
+font-size: 24px;
+font-weight: 500;
+line-height: 36px;
+text-align: center;
+top: 5px;
+}
+.accordion-item h3{
+    position: absolute;
+    left: 60px;
+  color: #282938;
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: left;
+  top: 5px;
+}
+ strong{
+    left: 60px;
+ color: #282938;
+font-weight: 500;
+line-height: 32px;
+text-align: left;
+width: 624px;
+}
+/*================================== Frequently  part end==================================== */
+
+
+/*==================================  footer  part start==================================== */
+#foter{
+    background-color: #1C1E53;
+}
+.foter-img img{
+   padding-top: 100px;
+}
+.foter-top-right h2{
+ color: #ffff;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 64px;
+letter-spacing: 0em;
+text-align: left;
+padding-top: 100px;
+}
+.foter-pera p{
+color: #ffff;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+padding-top: 22px;
+}
+.foter-icon i{
+   color: #fff;
+   padding: 0 10px 0 0;
+}
+.email-call{
+   background-color: #FCD980;
+   position: relative;
+   padding: 5px;
+}
+.email-call h2{
+   color: #282938;
+   font-family: Poppins;
+   font-size: 18px;
+   font-weight: 500;
+   line-height: 32px;
+   letter-spacing: 0em;
+   text-align: left;
+   
+}
+.email-call p{
+   color: #282938;
+   font-family: Poppins;
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 28px;
+   letter-spacing: 0em;
+   text-align: left;
+   
+}
+.email-call h3{
+   position: absolute;
+   top: 9px;
+   left: 345px;
+   color: #282938;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 500;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.email-call h4{
+   position: absolute;
+   top: 47px;
+   left: 345px;
+   color: #282938;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.bottom{
+    display: flex;
+}
+#last{
+    background-color: #ffff;
+  
+}
+.last-left P{
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+color: #282938;
+padding-top: 32px;
+}
+.last-right ul{
+    display: flex;
+    content: '';
+}
+.last-right ul li{
+    padding: 0 25px 0 0;
+    padding-top: 32px;
+   
+}
+.last-right ul li a{
+  color: #282938;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+
+
+
+
+/*================================== footer part end==================================== */

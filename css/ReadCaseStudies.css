@@ -1,0 +1,439 @@
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+/*================================== nav bar part start==================================== */
+.menu-nav{
+    background-color: #1C1E53;
+    padding: 20px;
+}
+.nav-item a{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #BBBBCB;
+}
+.nav-item a:hover{
+    color: #FFFFFF;
+}
+.navbar-nav li{
+    padding: 0 16px;
+}
+.nav-btn a{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    text-align: left;
+    color: #FFFFFF;
+    padding: 16px 25px;
+    border:  2px solid #F4F6FC33;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+}
+.nav-btn a:hover {
+     background-color: #FCD980;
+     border: 2px solid transparent;
+     color: #1C1E53;
+     transition: 0.5s;
+     -webkit-transition: 0.5s;
+     -moz-transition: 0.5s;
+     -ms-transition: 0.5s;
+     -o-transition: 0.5s;
+}
+/*================================== nav bar part end==================================== */
+
+/*================================== Read Case Studies bar part start==================================== */
+#Studies{
+    padding: 128px 0 48px 0;
+}
+.Studies-top h5{
+   color: #282938;
+font-family: Poppins;
+font-size: 24px;
+font-weight: 500;
+line-height: 36px;
+text-align: left;
+padding-bottom: 12px;
+}
+.Studies-top h2{
+ color: #282938;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 64px;
+text-align: left;
+padding-bottom: 16px;
+width: 520px;
+}
+.Studies-top p{  
+    color: #282938;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+text-align: left;
+padding-bottom: 48px;
+}
+.Studies-step-one img{
+    width: 1063px;
+}
+
+/*================================== Read Case Studies bar part end==================================== */
+
+
+/*================================== facebook part start==================================== */
+#facebook{
+background-color: #ffff;
+}
+.facebook-inner p{
+  color:#282938 ;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+text-align: left;
+padding-bottom: 4px;
+}
+.facebook-inner h2{
+  color:#282938 ;
+font-family: Poppins;
+font-size: 24px;
+font-weight: 500;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+/*================================== facebook part end==================================== */
+
+
+/*================================== About the project start==================================== */
+#About-project{
+    padding: 96px 0;
+}
+.About-project-top h2{
+   color: #282938;
+font-family: Poppins;
+font-size: 38px;
+font-weight: 600;
+line-height: 56px;
+text-align: left;
+padding-bottom: 12px;
+}
+.About-project-one p{
+ color: #282938;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+text-align: left;
+padding-bottom: 24px;
+}
+.About-project-three-one{
+    position: relative;
+}
+.abprthon{
+    position: absolute;
+    height: 8px;
+    width: 8px;
+    left: 0px;
+    top: 10px;
+    background-color: #282938;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.About-project-three-one p{
+    position: absolute;
+  color: #282938;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+text-align: justified;
+left: 20px;
+}
+.About-project-three-two{
+    position: relative;
+}
+.abprthtw{
+    position: absolute;
+    height: 8px;
+    width: 8px;
+    left: 0px;
+    top: 40px;
+    background-color: #282938;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.About-project-three-two p{
+    position: absolute;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: justified;
+  left: 20px;
+  top: 30px;
+}
+.About-project-three-three{
+    position: relative;
+}
+.About-project-three-three p{
+    position: absolute;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: justified;
+  left: 20px;
+  top: 60px;
+}
+.abprthth{
+    position: absolute;
+    height: 8px;
+    width: 8px;
+    left: 0px;
+    top:70px;
+    background-color: #282938;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.About-project-three-four{
+    position: relative;
+}
+.About-project-three-four p{
+    position: absolute;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: justified;
+  left: 20px;
+  top: 90px;
+}
+.abprthfo{
+    position: absolute;
+    height: 8px;
+    width: 8px;
+    left: 0px;
+    top:100px;
+    background-color: #282938;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.About-project-img img{
+    padding-top: 200px;
+    width: 842px;
+    padding-bottom: 64px;
+}
+.About-project-bottom{
+    padding-top: 200px;
+}
+
+.About-project-bottom ul li a{
+    padding: 0 26px;
+   
+}
+
+/*================================== About the project end==================================== */
+
+
+/*================================== build-something start==================================== */
+#build-something{
+    padding-bottom: 128px;
+}
+.build-something-top h2{
+ color: #282938;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 64px;
+text-align: center;
+padding-bottom: 20px;
+}
+.build-something-two p{
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+color: #282938;
+text-align: center;
+padding-bottom: 40px;
+width: 624px;
+}
+.build-something-btn{
+    position: relative;
+}
+.build-something-btn a{
+    position: absolute;
+    left: 218px;
+    color: #282938;
+    padding: 15px 40px;
+    border: 2px solid #FCD980;
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 32px;
+    text-align: left;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+}
+.build-something-btn a:hover{
+    background-color: #FCD980;
+    border: 2px solid transparent;
+    transition: 0.6s;
+    -webkit-transition: 0.6s;
+    -moz-transition: 0.6s;
+    -ms-transition: 0.6s;
+    -o-transition: 0.6s;
+}
+
+/*================================== build-something end==================================== */
+
+/*==================================  footer  part start==================================== */
+#foter{
+    background-color: #1C1E53;
+}
+.foter-img img{
+   padding-top: 100px;
+}
+.foter-top-right h2{
+ color: #ffff;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 64px;
+letter-spacing: 0em;
+text-align: left;
+padding-top: 100px;
+}
+.foter-pera p{
+color: #ffff;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+padding-top: 22px;
+}
+.foter-icon i{
+   color: #fff;
+   padding: 0 10px 0 0;
+}
+.email-call{
+   background-color: #FCD980;
+   position: relative;
+   padding: 5px;
+}
+.email-call h2{
+   color: #282938;
+   font-family: Poppins;
+   font-size: 18px;
+   font-weight: 500;
+   line-height: 32px;
+   letter-spacing: 0em;
+   text-align: left;
+   
+}
+.email-call p{
+   color: #282938;
+   font-family: Poppins;
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 28px;
+   letter-spacing: 0em;
+   text-align: left;
+   
+}
+.email-call h3{
+   position: absolute;
+   top: 9px;
+   left: 345px;
+   color: #282938;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 500;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.email-call h4{
+   position: absolute;
+   top: 47px;
+   left: 345px;
+   color: #282938;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.bottom{
+    display: flex;
+}
+#last{
+    background-color: #ffff;
+  
+}
+.last-left P{
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+color: #282938;
+padding-top: 32px;
+}
+.last-right ul{
+    display: flex;
+    content: '';
+}
+.last-right ul li{
+    padding: 0 25px 0 0;
+    padding-top: 32px;
+   
+}
+.last-right ul li a{
+  color: #282938;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+
+
+
+
+/*================================== footer part end==================================== */
